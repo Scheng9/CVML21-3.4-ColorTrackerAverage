@@ -1,7 +1,7 @@
 let img
 function preload(){
-img = loadImage('14.png');
-img3 = loadImage('13.png')
+  img = loadImage('14.png');
+  img3 = loadImage('13.png')
 img2 = loadImage('16.png')
 }
 // let x;// globally scope var
